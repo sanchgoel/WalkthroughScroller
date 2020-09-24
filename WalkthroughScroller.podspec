@@ -4,6 +4,7 @@ s.platform = :ios
 s.ios.deployment_target = '11.0'
 s.name = "WalkthroughScroller"
 s.summary = "This project allows you to create a walkthrough scroller with animation."
+
 s.requires_arc = true
 
 s.version = "1.0.0"
