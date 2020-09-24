@@ -4,7 +4,7 @@ This project allows you to create a walkthrough animation in iOS apps.
 <img src="https://github.com/sanchgoel/WalkthroughScroller/blob/master/Video/walkthroughScroller.gif" width="300" />
 
 ## Installation Instructions
-Cocopods Setup to integrate SpiderWebChart into your Xcode project using CocoaPods, specify it in your Podfile:
+Cocopods Setup to integrate WalkthroughScroller into your Xcode project using CocoaPods, specify it in your Podfile:
 
 ``pod 'WalkthroughScroller'``
 
