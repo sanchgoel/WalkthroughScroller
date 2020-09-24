@@ -63,10 +63,8 @@
 				115033CE251B0D7800BE811F /* AppDelegate.swift */,
 				115033D4251B0D7800BE811F /* Main.storyboard */,
 				115033E7251B5FD100BE811F /* ViewController.swift */,
-				115033D2251B0D7800BE811F /* WalkthroughViewController.swift */,
-				115033E3251B0F0000BE811F /* WalkthroughScroller.swift */,
+				115033E9251C766C00BE811F /* Utils */,
 				115033E2251B0DAE00BE811F /* Support */,
-				115033E5251B28A100BE811F /* Extension+UIColor.swift */,
 				115033DC251B0D7A00BE811F /* Info.plist */,
 			);
 			path = WalkthroughScroller;
@@ -79,6 +77,16 @@
 				115033D9251B0D7A00BE811F /* LaunchScreen.storyboard */,
 			);
 			path = Support;
+			sourceTree = "<group>";
+		};
+		115033E9251C766C00BE811F /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				115033D2251B0D7800BE811F /* WalkthroughViewController.swift */,
+				115033E3251B0F0000BE811F /* WalkthroughScroller.swift */,
+				115033E5251B28A100BE811F /* Extension+UIColor.swift */,
+			);
+			path = Utils;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
